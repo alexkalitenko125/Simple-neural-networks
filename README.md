@@ -1,2 +1,2 @@
 # Simple neural networks
-This repo contains some simple, but fundamental neural, neural networks.
+This repo contains some simple, but fundamental, neural networks.
